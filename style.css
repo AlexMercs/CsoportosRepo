@@ -1,0 +1,32 @@
+body{
+    background-image: url(kozosmunka/greek.jpg);
+    background-repeat: no-repeat;
+    background-position:top;
+  /*background-size:auto;*/
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 50;
+    color:aquamarine;
+    opacity: 0.8;
+}
+/*h2{
+    font-family: 'Lobster', cursive;
+    font-size: 60;
+    color:aquamarine;
+    opacity: 0.2;
+    text-align: right;
+}
+*/
+.topnav{
+    color: crimson;
+}
+a{
+    color: crimson;
+}
+.idezet{
+    position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
